@@ -1,10 +1,11 @@
-# Xiyou_mall
-## 西邮二手商城
-## 智邮普创工作室Web组开发
+## Xiyou_mall
+### 西邮二手商城
+
+>  智邮普创工作室 Web 组开发
 
 ---
 
-### 项目初始化
+#### 项目初始化
 
 使用 [create-react-app](https://github.com/facebookincubator/create-react-app) 创建项目并初始化 
 > 补充：
