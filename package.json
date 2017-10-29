@@ -1,0 +1,9 @@
+{
+  "name": "Xiyou_mall",
+  "version": "0.0.1",
+  "description": "Xiyou_mall",
+  "main": "index.js",
+  "repository": "https://github.com/ZypcGroup/Xiyou_mall.git",
+  "author": "ZYCP-WEB",
+  "license": "MIT"
+}
